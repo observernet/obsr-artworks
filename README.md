@@ -1,2 +1,2 @@
 # obsr-artworks
-Observer Core - Artworks
+OBSR Artworks
